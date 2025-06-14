@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017,<br>📚 I'm currently learning anything<br>🎯 Goals: Containerize my friends<br>🎲 Fun fact: I sleep alot</p>
+<p align="left">✨ Creating bugs since 2017,<br>📚 I'm currently learning anything<br>🎯 Goals: Containerize my friends<br>🎲 Fun fact: I sleep alot, and lazy too</p>
 
 ###
 
