@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017,<br>📚 I'm currently learning anything<br>🎯 Goals: Containerize my friends<br>🎲 Fun fact: I sleep alot, and lazy too</p>
+<p align="left">✨ Creating bugs since 2017,<br>📚 I'm currently learning anything<br>🎯 Goals: Containerize my friends<br>🎲 Fun fact: I sleep alot</p>
 
 ###
 
@@ -56,12 +56,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alashoor89/alashoor89/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alashoor-dev/.github/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alashoor89/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/alashoor-dev/count.svg?"  />
 </div>
 
 ###
