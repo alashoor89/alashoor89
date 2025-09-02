@@ -14,12 +14,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alashoor-dev/.github/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/alashoor89/alashoor89/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alashoor89/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=alashoor89&color=blue"  />
 </div>
 
 ###
